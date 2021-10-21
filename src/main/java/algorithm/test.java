@@ -1,6 +1,8 @@
 package algorithm;
 
 public class test {
-  
-  nihao
+
+  public static void main(String[] args) {
+    System.out.println("hellow world!!");
+  }
 }
